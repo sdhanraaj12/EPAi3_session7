@@ -155,7 +155,7 @@ def func_call_counter_user(dict_by_user:'dict'):
 ```
 ### Test Cases:
 
-There are total 29 test case for to check the working of each task function. There are some general test cases of checking documentation of the project and the python files,There are testcases to check to whether they are acutally closures or not. All are listed below.
+There are total 29 test cases to check the working of each task function. There are some general test cases of checking documentation of the project and the python files,There are testcases to check to whether they are acutally closures or not. All are listed below.
 
 	1. test_readme_exists
 	2. test_readme_contents
